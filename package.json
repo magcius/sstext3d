@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@types/gl-matrix": "^2.4.5",
+    "@types/opentype": "^0.0.4",
+    "gl-matrix": "^3.1.0",
+    "opentype": "^0.1.2",
+    "opentype.js": "^1.1.0",
+    "poly2tri": "^1.5.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3",
+    "typescript": "^3.5.3"
+  }
+}
